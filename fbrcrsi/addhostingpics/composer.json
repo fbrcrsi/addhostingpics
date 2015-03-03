@@ -1,0 +1,26 @@
+{
+	"name": "fbrcrsi/addhostingpics",
+	"type": "phpbb-extension",
+	"description": "Add HostingPics service",
+	"homepage": "http://www.fbrcrsi.fr",
+	"version": "1.0.0",
+	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Frederic",
+			"username": "fbrcrsi",
+			"email": "fbrcrsi@gmail.com",
+			"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"extra": {
+		"display-name": "Add HostingPics service",
+		"soft-require": {
+			"phpbb/phpbb": "3.1.1"
+		}
+	}
+}
