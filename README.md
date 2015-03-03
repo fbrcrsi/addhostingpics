@@ -8,7 +8,7 @@ You can install this on the latest release of phpBB 3.1 by following the steps b
 2. Unzip the downloaded release, and go to the folder to `fbrcrsi-addhostingpics-master`.
 3. copy directory named `fbrcrsi` in the `ext` directory of your phpBB board.
 4. Navigate in the ACP to `Customise -> Manage extensions`.
-6. Look for `Add Hostingpics service` under the Disabled Extensions list, and click its `Enable` link.
+5. Look for `Add Hostingpics service` under the Disabled Extensions list, and click its `Enable` link.
 
 
 Remember to purge cache each time you edit the templates after the installation
