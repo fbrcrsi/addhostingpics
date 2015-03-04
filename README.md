@@ -1,8 +1,8 @@
 # fbrcrsi-addhostingpics
-Add HostingPics service on phpBB 3.1 message editor 
+Add HostingPics service on phpBB 3.1.3 message editor 
 
 ## Quick Install
-You can install this on the latest release of phpBB 3.1 by following the steps below:
+You can install this on the latest release of phpBB 3.1.3 by following the steps below:
 
 1. [Download the latest release](https://github.com/fbrcrsi/fbrcrsi-addhostingpics).
 2. Unzip the downloaded release, and go to the folder to `fbrcrsi-addhostingpics-master`.
