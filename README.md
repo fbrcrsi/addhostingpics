@@ -6,7 +6,7 @@ You can install this on the latest release of phpBB 3.1.3 by following the steps
 
 1. [Download the latest release](https://github.com/fbrcrsi/addhostingpics).
 2. Unzip the downloaded release, and change the name of the folder to`addhostingpics`.
-3. In the `ext` directory of your phpBB board, create a new directory named `fbrcrsi` (if it does not already exist).
+3. In the `ext/` directory of your phpBB board, create a new directory named `fbrcrsi` (if it does not already exist).
 4. Copy the `addhostingpics` folder to `ext/fbrcrsi/` directory of your phpBB board.
 5. Navigate in the ACP to `Customise -> Manage extensions`.
 6. Look for `Add Hostingpics service` under the Disabled Extensions list, and click its `Enable` link.
