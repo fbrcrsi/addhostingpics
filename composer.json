@@ -3,7 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Add HostingPics service",
 	"homepage": "https://github.com/fbrcrsi/addhostingpics",
-	"version": "1.0.0-rc2",
+	"version": "1.0.0",
 	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
 	"license": "GPL-2.0",
 	"authors": [
