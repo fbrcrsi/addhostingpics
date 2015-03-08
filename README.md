@@ -20,13 +20,16 @@ Remember to purge cache each time you edit the templates after the installation
 2. Look for `Add HostingPics service` under the Enabled Extensions list, and click its `Disable` link.
 3. To permanently uninstall, click `Delete Data` and then delete the `/ext/fbrcrsi/addhostingpics` directory.
 
-# Version History
+## Version History
 
-## 2015.03.08
-* 1.0.0 : Stable version
+* 2015.03.08
 
-## 2015.03.04
-* 1.0-rc2 : Add version-check
+1.0.0 : Stable version
 
-## 2015.03.03
-* 1.0-rc : Initial release
+* 2015.03.04
+
+1.0-rc2 : Add version-check
+
+* 2015.03.03
+
+1.0-rc : Initial release
