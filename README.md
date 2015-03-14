@@ -22,14 +22,14 @@ Remember to purge cache each time you edit the templates after the installation
 
 ## Version History
 
-* 2015.03.08
+- 2015.03.08
 
-1.0.0 : Stable version
+ - 1.0.0 : Stable version
 
-* 2015.03.04
+- 2015.03.04
 
-1.0-rc2 : Add version-check
+ - 1.0-rc2 : Add version-check
 
-* 2015.03.03
+- 2015.03.03
 
-1.0-rc : Initial release
+ - 1.0-rc : Initial release
