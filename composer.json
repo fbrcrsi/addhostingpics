@@ -1,7 +1,7 @@
 {
 	"name": "fbrcrsi/addhostingpics",
 	"type": "phpbb-extension",
-	"description": "Add HostingPics service",
+	 "description": "This extention add HostingPics service on phpBB 3.1.X message editor.\n\nPlease note: This service this extension uses is a French only service, due to this, some message's are in French only.",
 	"homepage": "https://github.com/fbrcrsi/addhostingpics",
 	"version": "1.0.0",
 	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
