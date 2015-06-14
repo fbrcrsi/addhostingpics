@@ -22,6 +22,10 @@ Remember to purge cache each time you edit the templates after the installation
 
 ## Version History
 
+- 2015.06.15
+
+ - 1.0.1 : Strict HTML 5
+
 - 2015.03.08
 
  - 1.0.0 : Stable version
