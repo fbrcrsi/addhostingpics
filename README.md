@@ -22,6 +22,10 @@ Remember to purge cache each time you edit the templates after the installation
 
 ## Version History
 
+- 2017.04.17
+
+- 1.0.2 phpBB 3.2 compatible
+
 - 2015.06.15
 
  - 1.0.1 : Strict HTML 5
