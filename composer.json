@@ -1,28 +1,35 @@
 {
-	"name": "fbrcrsi/addhostingpics",
-	"type": "phpbb-extension",
-	 "description": "This extention add HostingPics service on phpBB 3.1.X and 3.2 message editor.\n\nPlease note: This service this extension uses is a French only service, due to this, some message's are in French only.",
-	"homepage": "https://github.com/fbrcrsi/addhostingpics",
-	"version": "1.0.2",
-	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
-	"license": "GPL-2.0",
-	"authors": [
-		{
-			"name": "fbrcrsi",
-			"username": "fbrcrsi",
-			"email": "fbrcrsi@gmail.com",
-			"homepage": "http://www.fbrcrsi.fr/",
-			"role": "Developer"
-		}
-	],
-	"require": {
-		"php": ">=5.3.3"
-	},
-	"extra": {
-		"display-name": "Add HostingPics service",
-		"soft-require": {
-			"phpbb/phpbb": "3.2"
-		},
+    "name": "fbrcrsi/addhostingpics",
+    "type": "phpbb-extension",
+    "description": "This extention add HostingPics service on phpBB 3.1.X and 3.2 message editor.\n\nPlease note: This service this extension uses is a French only service, due to this, some message's are in French only.",
+    "homepage": "https://github.com/fbrcrsi/addhostingpics",
+    "version": "1.0.3",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "picture",
+        "hosting",
+        "image"
+    ],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "fbrcrsi",
+            "username": "fbrcrsi",
+            "email": "fbrcrsi@gmail.com",
+            "homepage": "http://www.fbrcrsi.fr/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpbb/phpbb": ">=3.1.10"
+    },
+    "extra": {
+        "display-name": "Add HostingPics service",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.10"
+        },
 		"version-check": {
 		    "host": "www.fbrcrsi.fr",
 		    "directory": "/_extphpbb/addhostingpics/",

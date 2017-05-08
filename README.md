@@ -22,6 +22,10 @@ Remember to purge cache each time you edit the templates after the installation
 
 ## Version History
 
+- 2017.05.08
+
+- 1.0.3 phpBB 3.2 compatible, min version added in composer.json
+
 - 2017.04.17
 
 - 1.0.2 phpBB 3.2 compatible
